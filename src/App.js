@@ -37,9 +37,7 @@ class App extends Component {
         <h1 className="title">Robots Friends</h1>
         <SearchBox searchChange={this.onSearchChange} />
         <Scroll>
-          <ErrorBoundry>
-            <CardList robots={filteredRobots} />
-          </ErrorBoundry>
+          <CardList robots={filteredRobots} />
         </Scroll>
       </div>
     );
@@ -47,5 +45,3 @@ class App extends Component {
 }
 
 export default App;
-
-// https://github.com/Taobal2/Robot-friends.git
