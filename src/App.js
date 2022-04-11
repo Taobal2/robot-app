@@ -3,7 +3,7 @@ import CardList from "./Components/CardList";
 // import { robots } from "./Components/Robot";
 import SearchBox from "./Components/SearchBox";
 import Scroll from "./Components/Scroll";
-import ErrorBoundry from "./Components/ErrorBoundry";
+// import ErrorBoundry from "./Components/ErrorBoundry";
 
 class App extends Component {
   constructor() {
