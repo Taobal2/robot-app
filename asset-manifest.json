@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robot-app/static/css/main.0c254e32.css",
+    "main.js": "/robot-app/static/js/main.a738def0.js",
+    "static/js/787.92d249f8.chunk.js": "/robot-app/static/js/787.92d249f8.chunk.js",
+    "index.html": "/robot-app/index.html",
+    "main.0c254e32.css.map": "/robot-app/static/css/main.0c254e32.css.map",
+    "main.a738def0.js.map": "/robot-app/static/js/main.a738def0.js.map",
+    "787.92d249f8.chunk.js.map": "/robot-app/static/js/787.92d249f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c254e32.css",
+    "static/js/main.a738def0.js"
+  ]
+}
